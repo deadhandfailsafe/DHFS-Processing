@@ -1,0 +1,592 @@
+This is the gamelog. Every annoucnement of every fortress can be found here.
+
+---
+
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+Generating world using parameter set LARGE REGION
+ Seed: bvOiTgkawUPtXDHV3Mry
+ History Seed: pQiDcKvU2fbmBMdSJNPs
+ Name Seed: dvsPZsbljU9ceX5xFpvQ
+ Creature Seed: YnOuq2y0MqMlk9MU2jJO
+*** STARTING NEW GAME ***
+Generating world using parameter set SMALL REGION
+ Seed: wk6qyoQccWKQeYUakYwA
+ History Seed: scikqQcIcScyg4QywkK6
+ Name Seed: AUAeGa8GaaiIKcaIMWSs
+ Creature Seed: im6C80yeKAEQCUuekaU6
+*** STARTING NEW GAME ***
+Generating world using parameter set SMALL REGION
+ Seed: AqKAW40sy4aOeYeyok2i
+ History Seed: WaQ62YIiG8iMWwK8YEUi
+ Name Seed: 8OyQA6KgO4ceOK4MEmiq
+ Creature Seed: co6O2Y6ASuiO088CO68c
+*** STARTING NEW GAME ***
+Generating world using parameter set LARGE REGION
+ Seed: OcwqEKAOIE8QKc8GKomK
+ History Seed: qOE6Egse8gCY4M0Eso4k
+ Name Seed: SeK8gKgW4eCm0C4oi60Y
+ Creature Seed: YI4yOcKk64kIqGYYUEUy
+Spring has arrived on the calendar.
+*** STARTING NEW GAME ***
+Spring has arrived on the calendar.
+** Starting New Outpost **
+*** STARTING NEW GAME ***
+Generating world using parameter set LARGE REGION
+ Seed: 9V0mz4ICc2n7XN3nRuFQ
+ History Seed: tIid80nm0vpsfSXOdPjy
+ Name Seed: pNaPdI3tBGJ0uvzffVxQ
+ Creature Seed: iZQWissM0uCFalsGyBXw
+Spring has arrived on the calendar.
+*** STARTING NEW GAME ***
+Spring has arrived on the calendar.
+*** STARTING NEW GAME ***
+Generating world using parameter set MEDIUM REGION
+ Seed: y0ygMC8GoCwKgGk8EQOo
+ History Seed: OCc0eiyW0iCE6yoaK2yu
+ Name Seed: 8E04Eoo42qecgm6YM8qi
+ Creature Seed: SSW8KKISWKikWCc6UkyC
+*** STARTING NEW GAME ***
+Generating world using parameter set LARGE REGION
+ Seed: X3yOXeSo6yB9vjFb3wdc
+ History Seed: LUKt84TsQNN0ZgZSl9Bo
+ Name Seed: xtMPx2f3tUJugtH5P9t4
+ Creature Seed: aXUca6YcoaKZqFa0yRzQ
+*** STARTING NEW GAME ***
+Generating world using parameter set LARGE REGION
+ Seed: hL8KPIGgcMVdP3Z9pMX2
+ History Seed: fgYrumZki5TO1SnwRHvY
+ Name Seed: d7cpBoDNBS3cwFL7RrFs
+ Creature Seed: AxUuIIGkiAmhEPSUmVjo
+*** STARTING NEW GAME ***
+*** STARTING NEW GAME ***
+Generating world using parameter set LARGE REGION
+ Seed: eCYSmKwKYuwikcoEACuY
+ History Seed: 6e60AE6caaamAqCu2Ic4
+ Name Seed: S8OUAas2s8IEacOcUEEU
+ Creature Seed: 62yOy8CSswiqEyQQuK26
+*** STARTING NEW GAME ***
+Generating world using parameter set LARGE REGION
+ Seed: lheSVAG24i9PJn5rTIZs
+ History Seed: Fy8BGIxmIHBArq1qFNH2
+ Name Seed: 5BkxfSFbzI9cwnz3D5Zu
+ Creature Seed: WnCMQUU0MyEvqH4w0Xp6
+*** STARTING NEW GAME ***
+Generating world using parameter set MEDIUM REGION
+ Seed: sYCKa6QsSGk6Y84YyIYa
+ History Seed: mGQMMGAIQSA6egyGKOAm
+ Name Seed: muIUSeek6ys4cI4SWayK
+ Creature Seed: qoySsuU8GckgYyOY8wQI
+Spring has arrived on the calendar.
+** Starting New Outpost **
+Shabe Impseneebina, Woodchopper cancels Fell Tree: Webbed.
+Shabe Impseneebina, Woodchopper cancels Fell Tree: Webbed.
+It has started raining.
+Ibibo Entenoibald, Carpenter cancels Gather Plants: Interrupted by Heggarangi Frog.
+x2
+Ibibo Entenoibald, Carpenter cancels Gather Plants: Interrupted by Heggarangi Frog.
+x2
+Ibibo Entenoibald, Carpenter cancels Gather Plants: Interrupted by Heggarangi Frog.
+Ibibo Entenoibald, Carpenter cancels Gather Plants: Interrupted by Heggarangi Frog.
+x2
+x3
+The weather has cleared.
+Banons Entamshinons, trader cancels Store Item in Stockpile: Job item misplaced.
+A cloud of blinding sand has drifted nearby!
+Obabi Chobechibald, Stray Fisher Gremlin (Tame) cancels Store Item in Barrel: Incapable of carrying.
+Eninty Ibeldjim, head kobold cancels Store Item in Stockpile: Interrupted by Two-humped Camel.
+The head kobold vanishes into thin air.
+Ibibo Entenoibald, Carpenter cancels Store Item in Stockpile: Interrupted by Two-humped Camel.
+There is nothing to catch in the southwestern swamps.
+Shabe Impseneebina, Woodchopper cancels Fell Tree: Interrupted by Two-humped Camel.
+Obabi Chobechibald, Stray Fisher Gremlin (Tame) cancels Store Item in Barrel: Incapable of carrying.
+Obabi Chobechibald, Stray Fisher Gremlin (Tame) cancels Store Item in Barrel: Incapable of carrying.
+Jobans Bebobibano, Leatherworker cancels Prepare a Raw Fish: Needs unrotten raw fish.
+Obabi Chobechibald, Stray Fisher Gremlin (Tame) cancels Store Item in Barrel: Incapable of carrying.
+Obabi Chobechibald, Stray Fisher Gremlin (Tame) cancels Store Item in Barrel: Incapable of carrying.
+A cloud of blinding sand has drifted nearby!
+Obabi Chobechibald, Stray Fisher Gremlin (Tame) cancels Store Item in Barrel: Incapable of carrying.
+Obabi Chobechibald, Stray Fisher Gremlin (Tame) cancels Store Item in Barrel: Incapable of carrying.
+It is now summer.
+There is nothing to catch in the southwestern swamps.
+Obabi Chobechibald, Stray Fisher Gremlin (Tame) cancels Store Item in Barrel: Incapable of carrying.
+A cloud of blinding sand has drifted nearby!
+Jobans Bebobibano, Leatherworker cancels Store Item in Stockpile: Interrupted by Coyote.
+x2
+Obabi Chobechibald, Stray Fisher Gremlin (Tame) cancels Store Item in Barrel: Incapable of carrying.
+Obabi Chobechibald, Stray Fisher Gremlin (Tame) cancels Store Item in Barrel: Incapable of carrying.
+Jobans Bebobibano, Leatherworker cancels Store Item in Stockpile: Interrupted by Coyote.
+Shabe Impseneebina, Woodchopper cancels Store Item in Barrel: Interrupted by Coyote.
+Shabe Impseneebina, Woodchopper cancels Store Item in Stockpile: Interrupted by Coyote.
+Obabi Chobechibald, Stray Fisher Gremlin (Tame) cancels Store Item in Barrel: Incapable of carrying.
+Obabi Chobechibald, Stray Fisher Gremlin (Tame) cancels Store Item in Barrel: Incapable of carrying.
+A cloud of blinding sand has drifted nearby!
+Obabi Chobechibald, Stray Fisher Gremlin (Tame) cancels Store Item in Barrel: Incapable of carrying.
+Some migrants have arrived.
+A cloud of blinding sand has drifted nearby!
+Shento Bompsaobabo, Fishery Worker cancels Prepare a Raw Fish: Needs unrotten raw fish.
+A cloud of blinding sand has drifted nearby!
+Obabi Chobechibald, Stray Fisher Gremlin (Tame) cancels Store Item in Barrel: Incapable of carrying.
+The Stonecrafter Honi Ompsobaobinty from Bimpsi Obenti has arrived.
+A caravan from Bimpsi Obenti has arrived.
+Obabi Chobechibald, Stray Fisher Gremlin (Tame) cancels Store Item in Barrel: Incapable of carrying.
+Jobans Bebobibano, Leatherworker cancels Prepare a Raw Fish: Needs unrotten raw fish.
+Merchants have arrived and are unloading their goods.
+Shento Bompsaobabo, Fishery Worker cancels Prepare a Raw Fish: Needs unrotten raw fish.
+The Stray Giant Jack Rat (Tame) has been slaughtered.
+Obabi Chobechibald, Stray Fisher Gremlin (Tame) cancels Store Item in Barrel: Incapable of carrying.
+Obabi Chobechibald, Stray Fisher Gremlin (Tame) cancels Store Item in Barrel: Incapable of carrying.
+Shento Bompsaobabo, Fishery Worker cancels Prepare a Raw Fish: Needs unrotten raw fish.
+Stray Trap Spider (Tame) has given birth to trap spider hatchlings.
+Autumn has come.
+Ibinins Chobanishabam has become a warband marshal.
+There is nothing to catch in the southwestern swamps.
+Obabi Chobechibald, Stray Fisher Gremlin (Tame) cancels Store Item in Barrel: Incapable of carrying.
+The merchants from Bimpsi Obenti will be leaving soon.
+A cloud of blinding sand has drifted nearby!
+A cloud of blinding sand has drifted nearby!
+The merchants from Bimpsi Obenti have embarked on their journey.
+The warband marshal misses The Two-humped Camel!
+The warband marshal misses The Two-humped Camel!
+The warband marshal hacks The Two-humped Camel in the left hind foot with his (bloodsteel machete), tearing apart the fat!
+The warband marshal misses The Two-humped Camel!
+The warband marshal attacks The Two-humped Camel but She scrambles away!
+The Two-humped Camel stands up.
+The warband marshal stands up.
+Obabi Chobechibald, Stray Fisher Gremlin (Tame) cancels Store Item in Barrel: Incapable of carrying.
+Shento Bompsaobabo has become a Fisherbold.
+A thief has stolen a (-®spore tree cage¯-)!
+A thief has stolen a (spore tree cage)!
+A thief has stolen a (®cobalt blocking bracer¯)!
+A thief has stolen a (®copper brazier¯)!
+A thief has stolen a (wool bag)!
+A thief has stolen (pond turtle,  [5])!
+A thief has stolen a (-®cotton fiber rope¯-)!
+A thief has stolen (boozebelly cheese [5])!
+A thief has stolen a (®fungi training machete¯)!
+A thief has stolen a (®-feather wood cage-¯)!
+A thief has stolen a (strawberry wine Barrel (feather wood))!
+A thief has stolen a (rattlesnake venom Barrel (fungi))!
+A thief has stolen (cheese [5])!
+A thief has stolen (strawberries [5])!
+A thief has stolen (cheese [5])!
+A thief has stolen a (sunberry dye Bag (cotton fiber))!
+A thief has stolen a (fire clay)!
+A thief has stolen a (-®+copper scourge+¯-)!
+A thief has stolen a (sand Bag (fleece))!
+A thief has stolen a (®-feather wood barrel-¯)!
+A thief has stolen (clown loach,  [5])!
+A thief has stolen a (titanium totem-bomb sling)!
+A thief has stolen a (sewer brew Barrel (wooden))!
+A thief has stolen (pond turtle,  [5])!
+A thief has stolen (boozebelly cheese [5])!
+A thief has stolen (tough  intestines [5])!
+A thief has stolen (+®mithril blowdarts [25]¯+)!
+A thief has stolen a (wool yarn)!
+A thief has stolen a (®bloodsteel candelabra¯)!
+A thief has stolen a (mithril anvil)!
+A thief has stolen a (scaleplate cloak)!
+A thief has stolen a (*®cotton fiber rope¯*)!
+A thief has stolen a (-®iron left wrist guard¯-)!
+A thief has stolen a (-®iron right wrist guard¯-)!
+A thief has stolen a (chitinplate vest)!
+A thief has stolen ( stomach [5])!
+A thief has stolen a (-chitinplate quiver-)!
+A thief has stolen a (bloodsteel left wrist guard)!
+A thief has stolen a (bloodsteel right wrist guard)!
+A thief has stolen a (sand Bag (rare silk))!
+A thief has stolen (orchids [5])!
+A thief has stolen (pond turtle,  [5])!
+A thief has stolen (cheese [5])!
+A thief has stolen (fresh  heart [5])!
+A thief has stolen (boozebelly cheese [5])!
+A thief has stolen a (wolfram thigh guard)!
+A thief has stolen a (®tough leather bag¯)!
+A thief has stolen a (fungi barrel)!
+A thief has stolen a (®-wool bag-¯)!
+A thief has stolen a (+®wool bag¯+)!
+A thief has stolen a (cotton fiber thread)!
+A thief has stolen (red-bellied piranha,  [5])!
+A thief has stolen a (raw green glass)!
+A thief has stolen (strawberries [5])!
+A thief has stolen a (®-wolfram ladle-¯)!
+A thief has stolen a (dimple dye Bag (cotton fiber))!
+A thief has stolen (boozebelly cheese [5])!
+A thief has stolen a (*®rusty iron shin guard¯*)!
+x2
+A thief has stolen a (-®-platinum dogshaped helm-¯-)!
+A thief has stolen a (fungi chest)!
+A thief has stolen a (titanium left wrist guard)!
+A thief has stolen a (titanium right wrist guard)!
+A thief has stolen a (raw crystal glass)!
+A thief has stolen a (-titanium cap-)!
+A thief has stolen a (fleece yarn)!
+A thief has stolen a (-spore tree barrel-)!
+A thief has stolen (prickle berries [5])!
+A thief has stolen a (-tough leather quiver-)!
+A thief has stolen a (-®wooden training scourge¯-)!
+A thief has stolen ( stomach [5])!
+A thief has stolen (roach fish,  [5])!
+A thief has stolen a (bronze bars)!
+A thief has stolen a (dimple dye Bag (fleece))!
+A thief has stolen (tough  intestines [5])!
+A thief has stolen ( stomach [5])!
+x2
+A thief has stolen a (®-cotton fiber ankle band-¯)!
+x2
+A thief has stolen (roach fish,  [5])!
+A thief has stolen a (®-titanium axe blade-¯)!
+A thief has stolen (crayfish,  [5])!
+A thief has stolen a (-iron left wrist guard-)!
+A thief has stolen a (-iron right wrist guard-)!
+A thief has stolen a (®-steel left wrist guard-¯)!
+A thief has stolen a (®-steel right wrist guard-¯)!
+A thief has stolen a (rigid scaleplate kilt)!
+A thief has stolen (fisher berries [5])!
+A thief has stolen a (fisher berry wine Barrel (spore tree))!
+A thief has stolen ( stomach [5])!
+A thief has stolen (strawberries [5])!
+A thief has stolen (prickle berries [5])!
+A thief has stolen (mithril bolas [25])!
+A thief has stolen a (wolfram blocking bracer)!
+A thief has stolen a (rare silk thread)!
+A thief has stolen a (titanium brazier)!
+A thief has stolen a (wool yarn)!
+A thief has stolen a (+®fleece bag¯+)!
+A thief has stolen (crayfish,  [5])!
+A thief has stolen a (+®-copper dogshaped helm-¯+)!
+A thief has stolen a (-large bronze pot-)!
+A thief has stolen a (steel harmonica)!
+A thief has stolen a (®-iron blocking bracer-¯)!
+A thief has stolen (bloated tubers [5])!
+A thief has stolen a (cotton fiber rope)!
+A thief has stolen (cheese [5])!
+A thief has stolen a (scaleplate backpack)!
+A thief has stolen (cheese [5])!
+A thief has stolen a (cotton fiber thread)!
+A thief has stolen a (toad extract Barrel (feather wood))!
+A thief has stolen (roach fish,  [5])!
+A thief has stolen a (-bloodsteel dogshaped helm-)!
+A thief has stolen (-mithril sling bullets [25]-)!
+A thief has stolen a (tough leather bag)!
+A thief has stolen a (brass bars)!
+A thief has stolen a (-fur bag-)!
+A thief has stolen a (-®-cobalt dogshaped helm-¯-)!
+A thief has stolen a (®titanium machete¯)!
+A thief has stolen a (lead bars)!
+x2
+A thief has stolen a (fungi bucket)!
+A thief has stolen (cheese [5])!
+A thief has stolen a (raw crystal glass)!
+A thief has stolen a (+large bronze dagger+)!
+A thief has stolen (mahseer,  [5])!
+A thief has stolen a (+®+pointy iron stick+¯+)!
+A thief has stolen (cheese [5])!
+A thief has stolen a (bronze plated hide)!
+A thief has stolen a (-®fur bag¯-)!
+A thief has stolen a (-spore tree bucket-)!
+A thief has stolen a (+wool rope+)!
+A thief has stolen a (sand Bag (wool))!
+A thief has stolen a (troll blood Barrel (fungi))!
+A thief has stolen a (-leather backpack-)!
+A thief has stolen a (wooden cage)!
+A thief has stolen a (silver flask)!
+A thief has stolen (clown loach,  [5])!
+A thief has stolen a (raw clear glass)!
+A thief has stolen (clown loach,  [5])!
+A thief has stolen (prickle berries [5])!
+A thief has stolen (valley herbs [5])!
+A thief has stolen a (wooden barrel)!
+A thief has stolen a (-®spore tree splint¯-)!
+A thief has stolen (-wolfram sling bullets [25]-)!
+A thief has stolen a (mountain tuskox blood Barrel (feather wood))!
+A thief has stolen (titanium sling bullets [25])!
+A thief has stolen a (spore tree training machete)!
+A thief has stolen a (ironbone totem-bomb sling)!
+A thief has stolen (boozebelly cheese [5])!
+A thief has stolen a (bronze brazier)!
+A thief has stolen a (dimple dye Bag (cotton fiber))!
+A thief has stolen a (+®platinum blocking bracer¯+)!
+A thief has stolen a (+®+platinum dogshaped helm+¯+)!
+A thief has stolen a (spore tree cage)!
+A thief has stolen a (faedog bone scabbard)!
+A thief has stolen a (-®-wolfram scourge-¯-)!
+A thief has stolen (titanium bolas [25])!
+A thief has stolen (sun berries [5])!
+A thief has stolen a (raw green glass)!
+A thief has stolen (sun berries [5])!
+A thief has stolen (clown loach,  [5])!
+A thief has stolen a (feather wood bucket)!
+A thief has stolen a (gold nest box)!
+A thief has stolen (boozebelly cheese [5])!
+A thief has stolen a (cotton fiber rope)!
+A thief has stolen a (fungi barrel)!
+A thief has stolen a (cotton fiber bag)!
+A thief has stolen (cheese [5])!
+A thief has stolen a (cotton fiber (separate))!
+A thief has stolen a (-®feather wood bucket¯-)!
+A thief has stolen a (wool yarn)!
+A thief has stolen a (Cloth Bin (feather wood))!
+A thief has stolen (crayfish,  [5])!
+A thief has stolen a (Cloth Bin (feather wood))!
+A thief has stolen a (Cloth Bin (wooden))!
+A thief has stolen a (Cloth Bin (feather wood))!
+x2
+A thief has stolen (sun berries [5])!
+A thief has stolen (zebra loach,  [5])!
+A thief has stolen (meat [5])!
+A thief has stolen (cheese [5])!
+A thief has stolen (clown loach,  [5])!
+A thief has stolen (tough  intestines [5])!
+A thief has stolen (fresh  heart [5])!
+A thief has stolen (tough  intestines [5])!
+A thief has stolen (prickle berries [5])!
+A thief has stolen (boozebelly cheese [5])!
+A thief has stolen (lungfish,  [5])!
+A thief has stolen ( stomach [5])!
+A thief has stolen (crayfish,  [5])!
+A thief has stolen (boozebelly cheese [5])!
+A thief has stolen a (iron mortar)!
+A thief has stolen a (chitinplate quiver)!
+A thief has stolen (cheese [5])!
+A thief has stolen a (-®-spore tree cage-¯-)!
+A thief has stolen (prickle berries [5])!
+A thief has stolen a (-®spore tree cage¯-)!
+A thief has stolen (pond turtle,  [5])!
+A thief has stolen a (-®pit viper bone hourglass¯-)!
+A thief has stolen a (steel banjo)!
+A thief has stolen a (sand Bag (fleece))!
+A thief has stolen (pond turtle,  [5])!
+A thief has stolen a (-chitinplate quiver-)!
+A thief has stolen a (lead bars)!
+A thief has stolen a (-rare silk rope-)!
+A thief has stolen a (-®silk rope¯-)!
+A thief has stolen a (bloodsteel brazier)!
+A thief has stolen a (®wool ankle band¯)!
+x2
+A thief has stolen a (peat)!
+A thief has stolen a (rusty iron banded skirt)!
+A thief has stolen a (longland flour Bag (fleece))!
+A thief has stolen (meat [5])!
+A thief has stolen (boozebelly cheese [5])!
+A thief has stolen a (spore tree crutch)!
+A thief has stolen a (fleece bag)!
+A thief has stolen a (blade weed seeds Bag (rare silk))!
+A thief has stolen a (ironbone blowgun)!
+A thief has stolen a (-bloodsteel shin guard-)!
+x2
+A thief has stolen a (-®fleece bag¯-)!
+A thief has stolen a (®fungi crutch¯)!
+A thief has stolen (boozebelly cheese [5])!
+A thief has stolen a (®-bronze sling-¯)!
+A thief has stolen a (-®-titanium axe blade-¯-)!
+A thief has stolen a (+®-tough leather waterskin-¯+)!
+A thief has stolen a (strawberry wine Barrel (spore tree))!
+A thief has stolen a (+feather wood barrel+)!
+A thief has stolen a (cobalt banjo)!
+A thief has stolen a (®+cotton fiber rope+¯)!
+A thief has stolen a (sun berry seeds Bag (wool))!
+A thief has stolen a (-®tough leather bag¯-)!
+A thief has stolen a (lead bars)!
+A thief has stolen a (-®fungi barrel¯-)!
+A thief has stolen a (wooden crutch)!
+A thief has stolen a (-®rigid scaleplate backpack¯-)!
+A thief has stolen a (stalk whisky Barrel (fungi))!
+A thief has stolen a (-fur bag-)!
+A thief has stolen (boozebelly cheese [5])!
+A thief has stolen a (rat weed seeds Bag (rare silk))!
+A thief has stolen (strawberries [5])!
+A thief has stolen a (moleweasel blood Barrel (spore tree))!
+A thief has stolen (prickle berries [5])!
+A thief has stolen a (night adder venom Barrel (spore tree))!
+A thief has stolen (cheese [5])!
+A thief has stolen a (®leather quiver¯)!
+A thief has stolen a (fungi bucket)!
+A thief has stolen a (titanium bars)!
+A thief has stolen a (peat)!
+A thief has stolen a (-platinum blocking bracer-)!
+A thief has stolen a (cobalt flask)!
+A thief has stolen a (®+rusty iron left wrist guard+¯)!
+A thief has stolen a (®+rusty iron right wrist guard+¯)!
+A thief has stolen a (plump helmet dye Bag (silk))!
+A thief has stolen a (-®rare silk rope¯-)!
+A thief has stolen a (tough leather waterskin)!
+A thief has stolen a (*®cotton fiber (separate)¯*)!
+A thief has stolen a (®-scaleplate bag-¯)!
+A thief has stolen a (raw crystal glass)!
+A thief has stolen a (+horn hourglass+)!
+A thief has stolen a (-®-bronze brazier-¯-)!
+A thief has stolen a (feather wood cage)!
+A thief has stolen a (-shellplate bag-)!
+A thief has stolen (lungfish,  [5])!
+A thief has stolen a (wool yarn)!
+A thief has stolen (roach fish,  [5])!
+A thief has stolen a (-brass flask-)!
+A thief has stolen (zebra loach,  [5])!
+A thief has stolen a (steel anvil)!
+A thief has stolen (crayfish,  [5])!
+A thief has stolen a (fur quiver)!
+A thief has stolen a (gold brazier)!
+A thief has stolen a (-platinum blocking bracer-)!
+A thief has stolen a (mithril plated hide)!
+A thief has stolen a (silk thread)!
+A thief has stolen a (fleece yarn)!
+A thief has stolen a (large titanium dagger)!
+A thief has stolen a (+feather wood cage+)!
+A thief has stolen a (®-cotton fiber bag-¯)!
+A thief has stolen a (-titanium machete-)!
+A thief has stolen a (-®-pointy titanium stick-¯-)!
+A thief has stolen (sun berries [5])!
+A thief has stolen a (feather wood cage)!
+A thief has stolen (boozebelly cheese [5])!
+A thief has stolen (cheese [5])!
+A thief has stolen (mahseer,  [5])!
+A thief has stolen a (wool rope)!
+A thief has stolen a (tree acorns Bag (silk))!
+A thief has stolen a (rare silk rope)!
+A thief has stolen a (stalk whisky Barrel (feather wood))!
+A thief has stolen a (+cotton fiber rope+)!
+A thief has stolen a (®steel thigh guard¯)!
+A thief has stolen a (®steel left wrist guard¯)!
+A thief has stolen a (®steel right wrist guard¯)!
+A thief has stolen a (-bronze blocking bracer-)!
+A thief has stolen a (-®-tough leather bag-¯-)!
+A thief has stolen a (-fungi crutch-)!
+A thief has stolen a (feather wood bucket)!
+A thief has stolen a (-ironbone candelabra-)!
+A thief has stolen (boozebelly cheese [5])!
+A thief has stolen a (raw clear glass)!
+A thief has stolen a (chrome bars)!
+A thief has stolen (roach fish,  [5])!
+A thief has stolen a (raw crystal glass)!
+A thief has stolen (pond turtle,  [5])!
+A thief has stolen a (fleece yarn)!
+A thief has stolen a (wooden cage)!
+A thief has stolen a (aluminum bars)!
+A thief has stolen a (titanium totem-bomb sling)!
+A thief has stolen (bloated tubers [5])!
+A thief has stolen a (raw clear glass)!
+A thief has stolen a (zinc bars)!
+A thief has stolen a (rat weed seeds Bag (silk))!
+A thief has stolen a (+fungi barrel+)!
+A thief has stolen a (bane spider ichor Barrel (spore tree))!
+A thief has stolen a (-cotton fiber bag-)!
+A thief has stolen a (®silver flail¯)!
+A thief has stolen a (steel left wrist guard)!
+A thief has stolen a (steel right wrist guard)!
+A thief has stolen a (zinc flask)!
+A thief has stolen a (wool bag)!
+A thief has stolen a (®-rusty iron blowgun-¯)!
+A thief has stolen a (spore tree cage)!
+A thief has stolen a (bronze axe blade)!
+A thief has stolen a (wooden bucket)!
+A thief has stolen (orchids [5])!
+A thief has stolen a (wolfram left wrist guard)!
+A thief has stolen a (wolfram right wrist guard)!
+A thief has stolen (mahseer,  [5])!
+A thief has stolen a (-mithril dogshaped helm-)!
+A thief has stolen a (ironbone blocking bracer)!
+A thief has stolen a (raw crystal glass)!
+A thief has stolen a (-platinum hive-)!
+A thief has stolen a (-®fungi training machete¯-)!
+A thief has stolen a (®-bronze club-¯)!
+A thief has stolen (boozebelly cheese [5])!
+A thief has stolen a (cotton fiber thread)!
+A thief has stolen a (plump helmet dye Bag (silk))!
+A thief has stolen (cheese [5])!
+A thief has stolen (boozebelly cheese [5])!
+A thief has stolen a (raw clear glass)!
+A thief has stolen a (-spore tree cage-)!
+A thief has stolen (cheese [5])!
+A thief has stolen a (blob fluid Barrel (fungi))!
+A thief has stolen (red-bellied piranha,  [5])!
+A thief has stolen (cobalt bolas [25])!
+A thief has stolen a (gold accordion)!
+A thief has stolen (red-bellied piranha,  [5])!
+A thief has stolen a (raw green glass)!
+x2
+A thief has stolen a (®iron flail¯)!
+A thief has stolen a (-wool bag-)!
+A thief has stolen a (titanium bars)!
+A thief has stolen a (scaleplate bag)!
+A thief has stolen a (chitinplate quiver)!
+A thief has stolen (boozebelly cheese [5])!
+A thief has stolen a (stalk whisky Barrel (feather wood))!
+A thief has stolen a (cotton fiber thread)!
+A thief has stolen a (raw clear glass)!
+A thief has stolen a (+wooden barrel+)!
+A thief has stolen a (mithril anvil)!
+A thief has stolen (cheese [5])!
+The warband marshal hacks The Two-humped Camel in the front hump with his (bloodsteel machete), tearing apart the skin!
+The warband marshal strikes The Two-humped Camel in the right foreleg with the grip of his (bloodsteel machete), but the attack glances away!
+The warband marshal hacks The Two-humped Camel in the right forefoot with his (bloodsteel machete), tearing apart the fat!
+The warband marshal attacks The Two-humped Camel but He scrambles away!
+The Two-humped Camel stands up.
+The warband marshal attacks The Two-humped Camel but He scrambles away!
+The Two-humped Camel stands up.
+The warband marshal misses The Two-humped Camel!
+The warband marshal stands up.
+The Two-humped Camel stands up.
+Shabe Impseneebina, Woodchopper cancels Give Water: Need empty bucket.
+Shento Bompsaobabo has become a Fishery Worker.
+Stray Giant Jack Rat (Tame) has given birth to giant jack rat newborn.
+A cloud of blinding sand has drifted nearby!
+Obabi Chobechibald, Stray Fisher Gremlin (Tame) cancels Store Item in Barrel: Incapable of carrying.
+Some migrants have arrived.
+Jobans Bebobibano, Leatherworker cancels Prepare a Raw Fish: Needs unrotten raw fish.
+Obabi Chobechibald, Stray Fisher Gremlin (Tame) cancels Store Item in Barrel: Incapable of carrying.
+Ibinins Chobanishabam has become a warband marshal.
+Ibinins Chobanishabam has become a warband marshal.
+Obabi Chobechibald, Stray Fisher Gremlin (Tame) cancels Store Item in Barrel: Incapable of carrying.
+Ibinins Chobanishabam has become a warband marshal.
+Jobans Bebobibano, Leatherworker cancels Prepare a Raw Fish: Needs unrotten raw fish.
+Ibibo Entenoibald, Carpenter cancels Construct Building: Interrupted by Gnoll.
+The kobolds suspended the construction of Floor.
+Obaneld Bentinsbanibo, Fishery Worker cancels Store Item in Barrel: Webbed.
+Jobans Bebobibano, Leatherworker cancels Store Item in Stockpile: Webbed.
+Ibinins Chobanishabam has become a warband marshal.
+Eninte Ebinsbiba, Craftsbold cancels Store Item in Stockpile: Webbed.
+Shabe Impseneebina, Woodchopper cancels Store Item in Stockpile: Interrupted by Gnoll.
+Eninte Ebinsbiba, Craftsbold cancels Store Item in Barrel: Webbed.
+The warband marshal misses The Coyote!
+The Coyote bites The warband marshal in the left foot, but the attack is deflected by The warband marshal's (rigid scaleplate ankle band)!
+The warband marshal attacks The Coyote but She rolls away!
+The Coyote stands up.
+A cloud of blinding sand has drifted nearby!
+A Gnoll has stolen meat [16]!
+Shento Bompsaobabo, Fishery Worker cancels Prepare a Raw Fish: Webbed.
+Obabi Chobechibald, Stray Fisher Gremlin (Tame) cancels Store Item in Barrel: Incapable of carrying.
+Ibibo Entenoibald, Carpenter cancels Construct Building: Interrupted by Gnoll.
+The kobolds suspended the construction of Floor.
+Ibibo Entenoibald, Carpenter cancels Construct Building: Interrupted by Gnoll.
+The kobolds suspended the construction of Floor.
+Jobans Bebobibano, Leatherworker cancels Pen/Pasture Large Animal: Interrupted by Gnoll.
+Ibibo Entenoibald, Carpenter cancels Construct Building: Interrupted by Gnoll.
+The kobolds suspended the construction of Floor.
+The Gnoll kicks The warband marshal in the head with her right foot, bruising the muscle and shattering the neck's bone!
+The warband marshal gives in to pain.
+The Gnoll grabs The warband marshal by the thumb, right hand with her left arm!
+The Gnoll releases the grip of The Gnoll's left arm on The warband marshal's thumb, right hand.
+The Gnoll grabs The warband marshal by the left ear with her right hand!
+The Gnoll releases the grip of The Gnoll's right hand on The warband marshal's left ear.
+The Gnoll grabs The warband marshal by the (wool cloak) with her right hand!
+The Gnoll grabs The warband marshal by the thumb, right hand with her left arm!
+The Gnoll releases the grip of The Gnoll's left arm on The warband marshal's thumb, right hand.
+The Gnoll bites The warband marshal in the head, denting the skin and bruising the muscle and bruising the brain!
+Shabe Impseneebina, Woodchopper cancels Store Item in Stockpile: Interrupted by Gnoll.
+Ebinti Eniebens, Stone & Rune Engraver cancels Store Item in Stockpile: Interrupted by Gnoll.
+Enane Shentabachibina, Stone & Rune Engraver cancels Store Item in Stockpile: Interrupted by Gnoll.
+Ibinins Chobanishabam, Machetebold has been found dead.
+Ebinti Eniebens, Stone & Rune Engraver cancels Store Item in Stockpile: Interrupted by Gnoll.
+A Gnoll has stolen a (bloodsteel machete)!
+A Gnoll has stolen a (shellplate thigh guard)!
+Chababa Shempsashonti, Farmworker cancels Give Water: Need empty bucket.
+Obabi Chobechibald, Stray Fisher Gremlin (Tame) cancels Store Item in Barrel: Incapable of carrying.
+A Gnoll has stolen a (silk vest)!
+A Gnoll has stolen a (shellplate plated hide)!
+Chababa Shempsashonti, Farmworker cancels Give Water: Need empty bucket.
+A Gnoll has stolen a (wool kilt)!
+A Gnoll has stolen a (cotton fiber necklace)!
+A Gnoll has stolen a (rigid scaleplate ankle band)!
